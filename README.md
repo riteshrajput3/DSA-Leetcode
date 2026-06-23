@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
