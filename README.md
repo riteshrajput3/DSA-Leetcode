@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
