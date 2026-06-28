@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
