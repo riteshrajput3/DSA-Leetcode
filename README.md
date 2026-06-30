@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
