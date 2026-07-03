@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3379-transformed-array](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3379-transformed-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
