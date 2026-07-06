@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1288-remove-covered-intervals](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [1288-remove-covered-intervals](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
