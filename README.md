@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riteshrajput3/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
